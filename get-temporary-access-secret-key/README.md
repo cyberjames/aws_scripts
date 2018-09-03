@@ -5,9 +5,9 @@ This script will generate a pair of access key and secret key with `SESSION_TOKE
 Example output:
 ```
 export AWS_DEFAULT_REGION=ap-southeast-1	(you can change this without re-running the script)
-export AWS_ACCESS_KEY="ASIAAccessKeyId76VA"
-export AWS_SECRET_KEY="fH5C1IQzSecretAccessKeyO6CuQKW"
-export AWS_SESSION_TOKEN="FQSessionTokenYghVyiHnpjVBQ=="
+export AWS_ACCESS_KEY="ASIAAccessKeyId76VAXXXX"
+export AWS_SECRET_KEY="fH5C1IQzSecretAccessKeyO6CuQKWXXX"
+export AWS_SESSION_TOKEN="FQSessionTokenYghVyiHnpjVBXXXXQ=="
 export AWS_DEFAULT_OUTPUT=text
 ```
 
